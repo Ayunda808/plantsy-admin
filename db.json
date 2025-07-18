@@ -1,0 +1,49 @@
+{
+  "plants": [
+    {
+      "id": 1752829839297,
+      "name": "Rubber Plant",
+      "image": "https://bloomscape.com/wp-content/uploads/2022/08/bloomscape_burgundy-rubber-tree_lg_charcoal.jpg",
+      "price": 300,
+      "soldOut": false
+    },
+    {
+      "id": 1752833379392,
+      "name": "Snake Plant",
+      "image": "https://images.squarespace-cdn.com/content/v1/54fbb611e4b0d7c1e151d22a/1610074066643-OP8HDJUWUH8T5MHN879K/Snake+Plant.jpg?format=1000w",
+      "price": 200,
+      "soldOut": false
+    },
+    {
+      "id": 1752834842600,
+      "name": "Philodendron",
+      "image": "https://greenparadiselive.com/cdn/shop/files/RED_PHILEDENDRON_PLANT_1200x1200.png?v=1718346938",
+      "price": 250,
+      "soldOut": false
+    },
+    {
+      "id": 1752834949775,
+      "name": "ZZ Plant",
+      "image": "https://m.media-amazon.com/images/I/61ZRN9vL1FL.jpg",
+      "price": 400,
+      "soldOut": false
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
